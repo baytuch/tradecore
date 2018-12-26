@@ -1,0 +1,6 @@
+
+Options -Indexes
+
+<Files "config.json">
+  Deny from All
+</Files>
