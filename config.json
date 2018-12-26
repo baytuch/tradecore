@@ -1,0 +1,11 @@
+{
+  "name": "tradecore",
+  "ver": "1.0",
+
+  "db": {
+          "host": "127.0.0.1",
+          "name": "tradecore",
+          "user": "tradecore",
+          "pass": "qwerty"
+        }
+}
